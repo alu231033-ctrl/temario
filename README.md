@@ -67,7 +67,11 @@ El desarrollo web utiliza diversos lenguajes y tecnologías que permiten constru
 Git y GitHub
 Flujo de trabajo con ramas (branching, merge, pull requests)
 
+<img width="275" height="176" alt="image" src="https://github.com/user-attachments/assets/77712fa2-0298-4e85-ac0a-32ce62979d43" />
+
+
 ### 4. Control de Versiones
+<img width="247" height="157" alt="image" src="https://github.com/user-attachments/assets/39becc73-1854-4925-a1f3-5eadfbdad570" />
 
 El control de versiones es una práctica fundamental en el desarrollo web moderno, permitiendo gestionar y rastrear los cambios realizados en el código fuente de un proyecto. Las herramientas más utilizadas son **Git** y **GitHub**.
  **Git**
@@ -115,12 +119,17 @@ El frontend es la parte de la aplicación web que interactúa directamente con e
 - Usar APIs permite mostrar datos dinámicos, enviar información de formularios, autenticar usuarios, etc.
 - Ejemplo: Utilizar `fetch` en JavaScript para obtener datos de un servidor y mostrarlos en la página.
 
+<img width="300" height="160" alt="image" src="https://github.com/user-attachments/assets/a56655b7-5fb1-451a-93ab-5dcea9887624" />
+
 
 2.-Diseño e implementación del backend
 Servidor
+
+<img width="225" height="122" alt="image" src="https://github.com/user-attachments/assets/5d51d622-4db4-401f-91c3-2fc8d088caf4" />
+
+
 Manejo de peticiones y respuestas HTTP
 Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)
-2. Diseño e Implementación del Backend
 
 El backend es la parte de la aplicación web que se ejecuta en el servidor y se encarga de procesar la lógica, almacenar datos y responder a las solicitudes del frontend.
 
@@ -155,7 +164,8 @@ El backend es la parte de la aplicación web que se ejecuta en el servidor y se 
 ORM (Object Relational Mapping)
 CRUD desde el backend
 
-3. Bases de Datos
+<img width="242" height="126" alt="image" src="https://github.com/user-attachments/assets/90d41e7a-0ef5-458f-a4b5-fa3a9a0adf5b" />
+
 
 Las bases de datos son fundamentales en el desarrollo web, ya que permiten almacenar, organizar y consultar información de manera eficiente y segura. En esta sección se abordan los siguientes conceptos clave:
 
@@ -193,7 +203,7 @@ app.delete('/usuarios/:id', (req, res) => { /* Eliminar usuario */ });
 Validación de formularios
 Autenticación y autorización 
 
-### 4. Seguridad Básica en Aplicaciones Web
+
 
 La seguridad es esencial en el desarrollo web para proteger la información de los usuarios y el funcionamiento correcto de la aplicación. Esta sección cubre dos aspectos fundamentales:
 
@@ -217,6 +227,7 @@ La seguridad es esencial en el desarrollo web para proteger la información de l
 
 Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
 
+<img width="298" height="165" alt="image" src="https://github.com/user-attachments/assets/09e7959a-4fcd-44b6-a9e0-05ea4eabe5d0" />
 
 
 1. -Integración de frontend y backend
